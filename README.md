@@ -16,21 +16,10 @@ Configuration
 
 Configure IP adress of Ambilight TV
 Configure IP adress of HUE bridge
-Attach HUE lights to zones of Ambilight TV
 
+Attach HUE lights to zones of the Ambilight TV
 The HUE light nr's can be found in the official HUE app
-              top
-         0     1     2
-        _______________
-     2 |               | 0
-       |               |
-left 1 |               | 1 right
-       |               |
-     0 |_______________| 2
 
-         2     1     0
-             bottom
-             
 Running
 =======
 
