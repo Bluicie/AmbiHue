@@ -7,7 +7,9 @@ Installation
 ============
 
 Install simplejson
+
 Install phue
+
 git clone AmbiHue in preferred directory
 
 
@@ -15,9 +17,12 @@ Configuration
 =============
 
 Configure IP adress of Ambilight TV
+
 Configure IP adress of HUE bridge
 
+
 Attach HUE lights to zones of the Ambilight TV
+
 The HUE light nr's can be found in the official HUE app
 
 Running
