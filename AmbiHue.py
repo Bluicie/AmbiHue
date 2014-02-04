@@ -6,10 +6,10 @@ from phue import Bridge
 import colorsys
 
 #ip adress op ambilight TV
-ambilight_tv_ip = "192.168.1.103"
+ambilight_tv_ip = "192.168.1.100"
 
 #ip adress HUE bridge
-hue_ip = "192.168.1.198"
+hue_ip = "192.168.1.101"
 
 #grid to attach lights to one of 9 zones of the tv
 #the HUE light nr's can be found in the official HUE app
